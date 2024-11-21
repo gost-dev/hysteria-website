@@ -33,5 +33,5 @@ requests==2.31.0
 setuptools==69.5.1
 six==1.16.0
 soupsieve==2.5
-urllib3==2.2.1
+urllib3==2.2.2
 watchdog==4.0.0
